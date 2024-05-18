@@ -1,9 +1,10 @@
 All my coursework throughout all different ai courses merged together 
 
-![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/b220b2b8-4eb1-4e8b-bbdd-365d347b27ed)
-![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/162aaccb-78b1-4c1b-a40e-5f20743a2d57)
-![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/acbcfccc-e27c-46f6-bfbd-df574c8acb3e)
-![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/22734cf8-3ebd-45b2-ae96-2d5d32e43e3a)
+![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/f9f83b93-b09b-4568-a871-8f9f96286452)
+![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/20acd03a-976d-43c7-b47e-427e979374ac)
+![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/1bf901be-5664-42c6-8479-4a851682e882)
+![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/49986a25-c6cf-464c-a8e8-d36b42fe8a3d)
+
 
 
 ![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/868e834f-7fc7-4bc4-b6a9-abf3d4342b07)
