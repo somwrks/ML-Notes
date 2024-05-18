@@ -4,6 +4,7 @@ All my coursework throughout all different ai courses merged together
 ![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/20acd03a-976d-43c7-b47e-427e979374ac)
 ![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/1bf901be-5664-42c6-8479-4a851682e882)
 ![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/49986a25-c6cf-464c-a8e8-d36b42fe8a3d)
+![image](https://github.com/somwrks/Deep-Learning-Course/assets/85481905/bc6c7774-53f3-41c2-b8c9-6500ef2497e7)
 
 
 
