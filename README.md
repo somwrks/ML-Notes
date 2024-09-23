@@ -13,7 +13,6 @@ All my coursework throughout all different ai courses merged together
 
 ![The Ultimate Scikit-Learn Machine Learning Cheatsheet_page-0001](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/c577051b-83ec-48b1-b3bf-02fb88a98bf2)
 
-![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/f39e3d15-d171-4b6e-8e6e-2e3e0d4f9236)
 
 ![row-1-column-1](https://github.com/user-attachments/assets/3e27532a-5745-4a5b-9055-32c17f317367)
 ![row-2-column-1](https://github.com/user-attachments/assets/38b2c41d-c0fd-4807-9c84-cd952236a52f)
