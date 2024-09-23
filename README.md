@@ -15,3 +15,4 @@ All my coursework throughout all different ai courses merged together
 
 ![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/f39e3d15-d171-4b6e-8e6e-2e3e0d4f9236)
 
+![{7A7BAEA0-3108-4446-80C7-358DF210A75E}](https://github.com/user-attachments/assets/e00088af-98ae-49d5-987c-a4d083e80dde)
