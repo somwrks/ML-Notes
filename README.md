@@ -1,5 +1,5 @@
-# ML thang
+# My Machine Learning Journey
 
-### [Quick Revision](https://github.com/somwrks/ML-Notes/tree/master/Quick%20Revision) 
+### [Quick Revision notes](https://github.com/somwrks/ML-Notes/tree/master/Quick%20Revision) 
 ### [Lecture Notes](https://github.com/somwrks/ML-Notes/tree/master/Machine%20Learning%20in%20Depth/ML001%20Lecture%20Notes) 
 ### [Code Implementations](https://github.com/somwrks/ML-Notes/tree/master/Machine%20Learning%20in%20Depth) 
